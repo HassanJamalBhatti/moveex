@@ -44,7 +44,7 @@ export default function Contact() {
                 {
                   icon: Phone,
                   label: "Call Us",
-                  val: "+1 (800) 799-4325",
+                  val: "+1 (771) 220-4901",
                   sub: "Mon–Fri 08:00–20:00 EST",
                 },
                 {
@@ -56,7 +56,7 @@ export default function Contact() {
                 {
                   icon: MapPin,
                   label: "HQ",
-                  val: "450 Logistics Way, Hamburg, DE",
+                  val: "1-15 berdan ave Fairlawn NJ 07410",
                   sub: "Global HQ",
                 },
               ].map(({ icon: Icon, label, val, sub }) => (
