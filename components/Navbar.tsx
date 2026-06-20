@@ -39,7 +39,7 @@ export default function Navbar() {
             className="text-2xl text-white tracking-wider"
             style={{ fontFamily: "'Bebas Neue', sans-serif", letterSpacing: "0.08em" }}
           >
-            SwiftCargo
+            MoveEx
           </span>
         </a>
 

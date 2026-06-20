@@ -32,7 +32,7 @@ export default function About() {
           {/* Left */}
           <div>
             <div className="text-amber-500 text-sm font-semibold uppercase tracking-[0.2em] mb-4">
-              Why SwiftCargo
+              Why MoveEx
             </div>
             <h2
               className="text-5xl md:text-6xl text-white leading-none mb-8"

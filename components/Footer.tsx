@@ -50,7 +50,7 @@ export default function Contact() {
                 {
                   icon: Mail,
                   label: "Email",
-                  val: "hello@swiftcargo.com",
+                  val: "hello@moveex.com",
                   sub: "Response within 4 hours",
                 },
                 {
